@@ -11,7 +11,7 @@ This project provides **standalone**(*) versions of:
 
 You just need these 2 files:
 
-- `lit-element.js` **v2.3.1**
+- `lit-element.js` **v2.4.0**
 - `pwa-helpers.js` **v0.9.1** (optional, but useful if you need a router... and other tools)
 - `redux.js` **v4.0.5** (optional, but useful for state management)
 
